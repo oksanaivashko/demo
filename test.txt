@@ -1,2 +1,3 @@
+task: demo
 tool: git
 purpose: test
